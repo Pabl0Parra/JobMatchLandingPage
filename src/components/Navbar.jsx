@@ -111,7 +111,9 @@ function Navbar() {
                 onClick={() => setToggle((prev) => !prev)}
               >
                 {/* href to pages ID */}
-                <a href={`#${nav.id}`}>{nav.title}</a>
+                <a href="https://github.com/No-Country/C9-47-ft-ReactNative#readme">
+                  {nav.title}
+                </a>
               </li>
             ))}
           </ul>

@@ -31,7 +31,7 @@ const Hero = ({ slideLeftVariants, slideRightVariants }) => (
         <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
           Encuentra
           <br className="hidden sm:block" />
-          el <span className="text-gradient">trabajo</span>
+          <span className="text-gradient"> el trabajo</span>
         </h1>
         {/* GETSTARTED COMPONENT ON DESKTOP */}
         <div className="hidden mr-0 ss:flex md:mr-4">
@@ -45,8 +45,8 @@ const Hero = ({ slideLeftVariants, slideRightVariants }) => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         JobMatch está revolucionando la forma en que buscamos trabajo. Con su
         innovador estilo de búsqueda al estilo Tinder, JobMatch te permite ver
-        ofertas de trabajo disponibles, y encontrar aquellas que más se ajustan
-        a tus habilidades y preferencias.
+        ofertas de trabajo disponibles y encontrar aquellas que más se ajustan a
+        tus habilidades y preferencias.
       </p>
     </motion.div>
 

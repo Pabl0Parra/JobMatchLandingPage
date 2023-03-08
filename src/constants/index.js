@@ -92,16 +92,16 @@ export const stats = [
   {
     id: "stats-2",
     title: "Personas contratadas",
-    value: "230",
+    value: "468",
     prefix: "",
     suffix: "+",
   },
   {
     id: "stats-3",
     title: "Puestos disponibles",
-    value: "230",
+    value: "1930",
     prefix: "$",
-    suffix: "M+",
+    suffix: "+",
   },
 ];
 
@@ -120,7 +120,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Communidad",
+    title: "Comunidad",
     links: [
       {
         name: "Sugerencias",

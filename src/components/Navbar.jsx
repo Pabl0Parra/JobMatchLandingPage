@@ -73,8 +73,9 @@ function Navbar() {
             } text-white hover:text-secondary`}
             variants={liVariants}
           >
-            {/* href to pages ID */}
-            <a href={`#${nav.id}`}>{nav.title}</a>
+            <a href="https://github.com/No-Country/C9-47-ft-ReactNative#readme">
+              {nav.title}
+            </a>
           </motion.li>
         ))}
       </motion.ul>

@@ -33,7 +33,6 @@ const Billing = ({ scaleUpVariants }) => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Active el sonido si lo desea para una mejor experiencia.
       </p>
-
       <div className="flex flex-wrap mt-6 flow-row sm:mt-10">
         <img
           src={apple}

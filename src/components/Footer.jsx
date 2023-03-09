@@ -52,7 +52,7 @@ const Footer = () => (
           rel="noopener noreferrer"
           target="_blank"
         >
-          Pabl0Parra with ❤️.
+          Pabl0Parra with ❤️
         </a>
       </p>
       <div className="flex flex-row mt-6 md:mt-0">

@@ -99,8 +99,8 @@ export const stats = [
   {
     id: "stats-3",
     title: "Puestos disponibles",
-    value: "1930",
-    prefix: "$",
+    value: "1980",
+    prefix: "",
     suffix: "+",
   },
 ];

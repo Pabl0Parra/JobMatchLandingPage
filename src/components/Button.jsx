@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 const Button = ({ styles, type, text, isLoading }) => {
   const handleOnClick = () => {
     window.location.href =
-      "https://drive.google.com/file/d/1UD8evgeo8afK1Zifod-eAc6ROREokwjy/view?usp=share_link";
+      ("https://drive.google.com/file/d/1UD8evgeo8afK1Zifod-eAc6ROREokwjy/view?usp=share_link",
+      "_blank");
   };
   return (
     <motion.button

@@ -33,6 +33,8 @@ const Footer = () => (
                   className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite cursor-pointer hover:text-secondary ${
                     index !== footerLink.length - 1 ? "mb-2" : "mb-0"
                   }`}
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   {link.name}
                 </li>

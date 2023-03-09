@@ -73,7 +73,7 @@ function Navbar() {
             } text-white hover:text-secondary`}
             variants={liVariants}
           >
-            <a href="https://github.com/No-Country/C9-47-ft-ReactNative#readme">
+            <a href="https://github.com/Pabl0Parra/JobMatch#readme">
               {nav.title}
             </a>
           </motion.li>
@@ -111,7 +111,7 @@ function Navbar() {
                 onClick={() => setToggle((prev) => !prev)}
               >
                 {/* href to pages ID */}
-                <a href="https://github.com/No-Country/C9-47-ft-ReactNative#readme">
+                <a href="https://github.com/Pabl0Parra/JobMatch#readme">
                   {nav.title}
                 </a>
               </li>

@@ -124,11 +124,11 @@ export const footerLinks = [
     links: [
       {
         name: "Sugerencias",
-        link: "https://github.com/No-Country/C9-47-ft-ReactNative/issues",
+        link: "https://github.com/Pabl0Parra/JobMatch/issues",
       },
       {
         name: "Reporta un problema",
-        link: "https://github.com/No-Country/C9-47-ft-ReactNative/issues",
+        link: "https://github.com/Pabl0Parra/JobMatch/issues",
       },
     ],
   },
